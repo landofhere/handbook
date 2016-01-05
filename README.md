@@ -6,7 +6,7 @@ As we started growing our team this year, we looked for a starter-kit of inclusi
 
 We wanted to put what we've learned into practice, so we decided to write our own handbook and open source it.
 
-This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
+This repository contains all of the policies that we use at Josephine. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
 
