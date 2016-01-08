@@ -1,10 +1,10 @@
 # Guide to Your Equity
 
-There are currently **4,662,658** shares of Clef common stock outstanding.
+There are currently **11,428,563** shares of Josephine common stock outstanding.
 
-We have not undergone a 409A valuation to determine the current strike price of Clef stock.
+We have not undergone a 409A valuation to determine the current strike price of Josephine stock.
 
-**This guide is meant to help you understand the piece of Clef that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
+**This guide is meant to help you understand the piece of Josephine that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Clef gives you a stake in our success. As Clef grows and increases in value, you will own a piece of that growth and increased value. Clef is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Clef decreases in value, then your options won’t be worth anything.
 
@@ -32,7 +32,7 @@ When Clef raises money from outside investors, it needs to create new stock to s
 
 If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Clef is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m.
 
-You can also be diluted as we give equity to employees. Clef gives stock option grants to new employees out of an option pool, or a group of options that the Clef board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Clef’s current option pool is intended to cover the first 10 hires (after the three founders) before it needs to be refreshed. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
+You can also be diluted as we give equity to employees. Clef gives stock option grants to new employees out of an option pool, or a group of options that the Clef board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Clef’s current option pool is intended to cover the first 10 hires (after the founding team) before it needs to be refreshed. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
 
 Investor dilution won’t affect the value of your stock, but the valuation that we raise money at definitely will. Valuations (how much a company is worth) in private markets are highly unpredictable and subjective -- a share of Clef stock is worth whatever someone will pay for it. Competition between investors, general market performance, perceived future value, and our negotiation skills all play into that valuation and the value of your options will be affected by those forces.
 
