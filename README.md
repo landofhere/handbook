@@ -23,7 +23,7 @@ CEO of Clef
 
 ## Introduction
 * [Mission Statement](https://github.com/josephine/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/josephine/handbook/blob/master/Clef%20Values.md)
+* [Josephine Values](https://github.com/josephine/handbook/blob/master/Josephine%20Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/josephine/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
@@ -37,13 +37,13 @@ CEO of Clef
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Clef Offer Letter](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
+* [Josephine Offer Letter](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Josephine%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Clef](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
+* [Welcome to Josephine](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Josephine.md)
 * [Direct Reports](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Internal Transparency](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 * [Objectives and Key Results](https://github.com/josephine/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
