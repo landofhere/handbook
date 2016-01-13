@@ -18,7 +18,7 @@ If we gave you $10,000 worth of Josephine stock today, you would have to pay tho
 
 ## Vesting
 
-Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. 
+Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths.
 
 We are offering much higher equity grants than the industry standard (about 2x in most cases), because we want to reward the risk taken by our employees. Being generous with equity also helps us communicate that we’re looking for employees who want to build longer careers at Josephine.
 
@@ -64,17 +64,17 @@ This changes if you exercise stock less than 2 years after the grant was made be
 
 ## Classes of Stock
 
-When Clef raises outside capital, investors will buy a form of Preferred Stock that gives them special rights on top of their ownership of the business. Each subsequent round of funding will create a new class of stock with its own rights -- these are usually named by the rounds of funding (ex. Series A Preferred Stock, Series B Preferred Stock, etc.). Here are a few example rights that preferred stock may have.
+When Josephine raises outside capital, investors will buy a form of Preferred Stock that gives them special rights on top of their ownership of the business. Each subsequent round of funding will create a new class of stock with its own rights -- these are usually named by the rounds of funding (ex. Series A Preferred Stock, Series B Preferred Stock, etc.). Here are a few example rights that preferred stock may have.
 
 **Board seats:** A class of Preferred Stock may elect, independent of the other shareholders, a certain number of board seats. For instance, the Series A Preferred Stock holders may be able to elect one person to Josephine’s board of directors.
 
 **Liquidation preferences:** In a liquidation event (Josephine is sold or goes public), investors with liquidation preferences get paid back first. These favor the investor and lower the value of the stock. They usually cascade from the later rounds backwards, and can be a multiple of the money raised. For instance, if our Series A investors invested $5m with a 2x liquidation preference and Josephine was bought, then $10m would go back to the Series A investors before anyone else got any money back. If Josephine was sold for $10m or less, that would mean that everyone with common stock (founders and employees) would get nothing. If Josephine sold for $15m, then $5m would be distributed among the common stockholders.
 
-## Outstanding Convertible Notes (YC SAFE) 
+## Outstanding Convertible Notes (YC SAFE)
 
 Josephine has raised ~$2.5m to date, all as convertible notes.
 
-A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. We have used the YC SAFE agreement for convertible equity. So instead of selling equity for a fixed price, we essentially sell a future stake in the company and agree on a cap, or maximum valuation that these early investors will have to pay for the stock. Then, next time we raise money, that SAFE notes convert into equity at whichever is lower, the valuation of that round of financing or the valuation cap. 
+A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. We have used the YC SAFE agreement for convertible equity. So instead of selling equity for a fixed price, we essentially sell a future stake in the company and agree on a cap, or maximum valuation that these early investors will have to pay for the stock. Then, next time we raise money, that SAFE notes convert into equity at whichever is lower, the valuation of that round of financing or the valuation cap.
 
 For Josephine’s fundraise:
 
