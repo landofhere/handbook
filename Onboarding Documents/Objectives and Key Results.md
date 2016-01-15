@@ -1,46 +1,49 @@
 #Objectives and Key Results
 
-Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). OKRs are set at the company and individual level to help everyone see how their personal goals align with Josephine’s goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
+Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). Typically, OKRs are set at the company and at individual level to help everyone see how their personal goals align with the company goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
+
+When we first tried setting OKRs for Josephine we found that our collaborative workstyle made individual OKRs very difficult to set when multiple members of a team would frequently contribute to any given initiative, often in near-equal capacities. Thus we've decided to try setting OKRs at Josephine at company and team levels, leaving more granular delegation of projects and tasks to happen on Trello, where decisions can be more fluid. 
 
 ## Examples
 
 Objectives are the high level achievements you are shooting for, like:
 
-* Grow our audience in the Bitcoin community
+* Increase cook satisfaction
 
-* Increase engagement with the content we produce
+* Improve cook vetting and onboarding process
 
-* Improve the first time experience of using Josephine (onboarding)
+* Increase customer cook cross-pollination
 
-* Speed up deploy process for our engineering team
+* Tell the story of our community to a broader audience
 
-* Lower the average wait time for a support ticket response
+* Help cooks market to their audiences more easily
 
-* Develop better networking skills
+* Bring Josephine to new strategic markets
 
-Key results are the measurable outcomes that define success for the objectives. **Key results must be measurable on a scale from 0-10**, so for the third example objective, the results might be:
 
-* Interview 20 users after they go through the onboarding experience (% completion)
+Key results are the measurable outcomes that define success for the objectives. **Key results must be measurable on a scale from 0-10**, so for the second example objective, the results might be:
 
-* Pick 3 places where we can make the biggest improvements and write specs for all three improvements by July 31 (-2 points for each day late)
+* Review onboarding process for 10 most recently onboarded cooks and identify steps that took the longest amount of time to complete on average (% completion)
 
-* Ship those improvements by September 15 (-3 points for each week late)
+* Write documentation and create tools for 3 biggest improvement opportunities within the vetting and onboarding process by July 15 (-2 points for each day late)
 
-* Increase conversion through signup process by 10%, starting at 50% (% completion)
+* Onboard 8 new cooks using improved vetting and onboarding practices by Sept 31 (% complete)
+
+* Reduce average time from application recieved to first meal by 25%, starting at 16 days (% completion)
 
 ## Setting OKRs
 
-Everyone at Josephine sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
+Every team at Josephine sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
 
-Each person should set 3 to 5 objectives for the quarter, and each objective should have a maximum of 4 key results. Each objective also has a Description explaining what it means and an Alignment that explains how it aligns with company-wide goals. Each key result should explain how it will be scored at the end of the quarter.
-
-For every quarter, one goal should always be a learning or improvement objective. It should describe some skill or area of knowledge you want to expand, and then the concrete steps that you will complete in order to succeed at learning or improving it.
+Each team should set 3 to 5 objectives for the quarter, and each objective should have a maximum of 4 key results. Each objective also has a Description explaining what it means and an Alignment that explains how it aligns with company-wide goals. Each key result should explain how it will be scored at the end of the quarter.
 
 ## Tracking OKRs
 
-Every employee should keep track of their OKRs in their own Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.
+Every team's OKRs will be compiled and kept in a Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.
 
-OKRS should be talked about every week in 1:1s to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
+More specific units of work revolving around Key Results should be organized in team-specific Trello Boards (or Zenhub) that are accessible to the entire company. This is where individual task owners can be assigned and tasks can be re-prioritized.
+
+OKRS should be talked about every two weeks to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
 
 ## Scoring and Evaluating OKRs
 
