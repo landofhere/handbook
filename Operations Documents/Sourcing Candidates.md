@@ -3,7 +3,11 @@
 Our ability to serve the Josephine community hinges on our ability to be representative of it - not just as a company, but as individuals with unique perspectives. We need to be thoughtful about the ways we attract candidates and the biases that result from each of those channels so that candidates can get behind our mission while increasing our empathetic capacity as a group. 
 
 ## Organization
-For every position open at Josephine, there should be one founding team member who is in charge of the recruiting efforts for that position. This starts with writing the job description and publishing it on [josephine.com](http://josephine.com/jobs), but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
+For every position open at Josephine, there should be one founding team member who is in charge of the recruiting efforts for that position (role owner). This starts with writing the job description and publishing it on [josephine.com](http://josephine.com/jobs), but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
+
+Additionally, every candidate that moves through the hiring pipeline should have a candidate lead. The candidate lead for referrals and outbound recruiting should be the team member closest to the candidate. Inbound applications should default to the role owner as the candidate lead, but can be delegated to other members of the team.
+
+Every inbound application should receive a response from the Josephine team within 1 week so that they feel heard and like they were able to reach us personally. It's important for us to do our best to treat all of our candidates and applicants with respect and transparency, _especially_ when things get busy and applications are pouring in. Unfortunately, we will have to turn away many candidates that are genuinely excited about our mission and are entirely qualified to serve our community - there are more people deserving of roles at Josephine than there are roles available. Thus, we should work to keep our own luck, privilege, and opportunities in mind when interacting with folks who want to join our team. 
 
 ## Referrals
 
@@ -23,4 +27,4 @@ All of our job openings and descriptions will be posted on [josephine.com](http:
 
 Inbound applications give us the highest number of candidates that are outside of our personal networks, but also have the lowest initial filter because no one at Josephine is making any judgment about the candidate before they enter our pipeline. However, an inbound application is a strong signal that the candidates believes in what we’re doing at Josephine. This means that a smaller percentage will progress through our interview funnel, but that we still need to treat these candidates with respect.
 
-Every inbound application should receive a response from the Josephine team within 1 week so that they feel heard and like they were able to reach us personally. It's important that we do our best to treat all of our candidates and applicants with respect and transparency, _especially_ when things get busy and applications are pouring in. It's good to keep in mind that a lot of these candidates are genuinely excited about what we're doing and that their application is their first real interaction with us as people. 
+
