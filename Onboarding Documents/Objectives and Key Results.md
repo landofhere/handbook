@@ -2,7 +2,9 @@
 
 Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). Typically, OKRs are set at the company and at individual level to help everyone see how their personal goals align with the company goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
 
-When we first tried setting OKRs for Josephine we found that our collaborative workstyle made individual OKRs very difficult to set when multiple members of a team would frequently contribute to any given initiative, often in near-equal capacities. Thus we've decided to try setting OKRs at Josephine at company and team levels, leaving more granular delegation of projects and tasks to happen on Trello, where decisions can be more fluid. 
+When we first tried setting OKRs for Q1 2016, we found that the founding team's collaborative workstyle made individual OKRs very difficult to set. Members of each team frequently cross-delegate and contribute to initiatives in near-equal capacities depending on what is the most effective that day or week. Thus we've decided to set Josephine OKRs at company and team levels this quarter, rather than company and individual levels. The idea is that currently every one on our team can work on almost everything that falls within their team OKRs, so granular delegation of projects and tasks can happen on a shorter timeline, allowing for team optimized efficacy, rather than strict specialization. 
+
+While we're proud that communication within the founding team currently allows for this type of work fluidity, we realize that it is a luxury we will outgrow as soon as we grow the team and need more objective and individualized goal setting. Our plan is to re-evaluate the need for individual OKR setting for Q2 of 2016. 
 
 ## Examples
 
