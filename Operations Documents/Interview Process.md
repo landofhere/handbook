@@ -12,7 +12,7 @@ They should also get a blurb about Josephine, the position, and our values so th
 
 A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is what they want to do next, and whether that matches what we’re looking for at Josephine. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
 
-The idea is to spend 45 minutes getting to know the candidate and letting them ask questions about Josephine and the position. This has screened about 80% of candidates so far, which seems about right. It should be pretty transparent if the candidate’s experience or interests are misaligned for the job. Interview formats may vary, but some information spanning four categories should be gained:
+The idea is to spend 45 minutes getting to know the candidate and letting them ask questions about Josephine and the position. This has screened about 80% of candidates so far, which seems about right. It should be pretty transparent if the candidate’s experience or interests are misaligned for the job. Interview formats may vary, but some information spanning three categories should be gained:
 
  1. Can the candidate do the job? (work experience, portfolio, high level skills assessment)
  2. Will the candidate want to do the job? (motivations, work place priorities)
@@ -20,7 +20,7 @@ The idea is to spend 45 minutes getting to know the candidate and letting them a
 
 This interview should also focus on selling Josephine and recruiting promising candidates, as this is their first real contact with Josephine and their desire to work here will be formed in this meeting.
 
-# Skills Assessment — 1.5 to 2 Hours
+# Skills Assessment — 2 Hours
 
 The skills assessment is a chance to dive into the candidate’s ability at the job they’re interviewing for. The lead on this hire should prepare two exercises, one which goes into high level thinking for the position and the other which focuses on more low level implementation.
 
