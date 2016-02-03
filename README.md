@@ -14,7 +14,7 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 If these policies sound like a place where you want to work, check out our jobs postings at [josephine.com/about](https://josephine.com/about).
 
-— [B](https://twitter.com/brennenbyrne)
+— [Charley](https://twitter.com/_charleyw)
 
 CEO of Josephine
 
@@ -68,19 +68,3 @@ CEO of Josephine
 * [New Parent Leave](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 * [Other Protected Absences](https://github.com/josephine/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
-
-
-# Acknowledgements
-
-We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
-
-* [Angel Lewis](http://www.allemployerlaw.com/)
-* [Ashe Dryden](http://www.ashedryden.com/)
-* [B](https://twitter.com/brennenbyrne)
-* [Mark Hudnall](https://twitter.com/landakram)
-* [Jesse Pollak](https://twitter.com/jessepollak)
-* [Darrell Jones](https://twitter.com/darrelljonesiii)
-* [Grace Wong](https://twitter.com/gwongz)
-* [Julie Horvath](https://twitter.com/nrrrdcore)
-* [Ikka Riley](https://twitter.com/isicalynn)
-* [Erica Baker](https://twitter.com/ericajoy)
