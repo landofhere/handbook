@@ -12,4 +12,4 @@ We **trust** in the power of giving. Our world’s systemic inequality means tha
 
 ##Teach 'em How to Fish
 
-We create impact through **empowerment**. The opportunity for pride and creative agency is crucial for improving peoples’ livelihoods. Josephine’s impact on it’s community can only be sustainable and scalable if we respect the individuality of our cooks, our team, and our community.
+We create impact through **empowerment**. The opportunity for pride and creative agency is crucial for improving peoples’ livelihoods. Josephine’s impact on its community can only be sustainable and scalable if we respect the individuality of our cooks, our team, and our community.
