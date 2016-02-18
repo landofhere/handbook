@@ -1,6 +1,6 @@
 # Mission Statement
 
-The purpose of our Mission Statement is to answer the questions of "**What** are we doing?" and "**Why** is it important?". Our purpose and our pride stem from these goals, and our success is measured against them. To read about **How** we approach our Mission Statement, see our [Values](josephine.com/values). 
+The purpose of our Mission Statement is to answer the questions of "_What_ are we doing?" and "_Why_ is it important?". Our purpose and our pride stem from these goals, and our success is measured against them. To read about _How_ we approach our Mission Statement, see our [Values](josephine.com/values). 
 
 Our mission at Josephine is three-fold: 
 
