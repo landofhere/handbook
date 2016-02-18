@@ -1,25 +1,15 @@
 # Josephine Core Values
 
-## Be More Human.
+At Josephine, our Values are used for navigation. If our [Mission](josephine.com/mission) describes our desired destination, our Values are the compass with which we stay on track. We've written our values as mantras - exactly the way they are said and used by our team to make decisions.
 
-We're building technology to cultivate meaningful human connections, not replace them, and to do that we need to be relentlessly empathetic. Whether it's with our coworkers or the Josephine community, we strive to never lose sight of the people and lives our work touches.
+##Be More Human
 
-## Give boldly, give first.
+Our work is to practice **empathy**. This means putting ourselves in other peoples’ shoes even when (especially when) it’s difficult, inconvenient, and when others around us aren’t. We are a diverse team with varied perspectives and talents, but empathetic development is an explicit goal for our entire team. This is our advantage, our pride, and the differentiating factor behind how we are building Josephine.
 
-We believe in the power of altruism as a way of paying things forward and a foundation for building trust. For our mission to propagate we need to not only lead by example, but to do so in such a way that it inspires others to follow suit.
+##Give Boldly, Give First
 
-## Serve the many, the small.
+We **trust** in the power of giving. Our world’s systemic inequality means that people need different amounts of support to achieve the same outcomes. We acknowledge our privilege by making the first investment in the trust of our cooks, our team, and our partners. Giving boldly and giving first is how we fight for true equity.
 
-The food industry has been defined by massive corporations. We believe the world would be better served by a more inclusive food system, where passionate individuals can more easily serve their communities. Civic service is a moral imperative that drives us both as a company and as individuals.
+##Teach 'em How to Fish
 
-## Measure feelings, not things.
-
-Metrics are a core component of any successful business. But the emotions and relationships that validate our work are less easily measured. Creating more meaningful interactions will help us build not only a successful business, but a brighter world to live in.
-
-## Details are everything.
-
-Our obsessive attention to detail is what differentiates our experience and delights our community. It's the source of pride in our work. For us, success is measured in pride, not in credit.
-
-## Cultivate self reliance.
-
-Long term self-reliance requires time and effort, but it is the only sustainable way to improve and grow. We see our culture of transparency and education as an investment in ourselves and those we work with – be it our cooks, customers, partners, or employees. We’re here to teach ‘em how to fish.
+We create impact through **empowerment**. The opportunity for pride and creative agency is crucial for improving peoples’ livelihoods. Josephine’s impact on it’s community can only be sustainable and scalable if we respect the individuality of our cooks, our team, and our community.
