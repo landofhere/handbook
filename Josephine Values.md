@@ -1,6 +1,6 @@
 # Josephine Core Values
 
-At Josephine, our Values are used for navigation. If our [Mission](josephine.com/mission) describes our desired destination, our Values are the compass with which we stay on track. We've written our values as mantras - exactly the way they are said and used by our team to make decisions.
+At Josephine, our Values give us direction. If our [Mission](josephine.com/mission) describes our desired destination, our Values are the compass with which we stay on track. We've written our values as mantras so they're easy to repeat out loud and use in every decision we make.
 
 ##Be More Human
 
