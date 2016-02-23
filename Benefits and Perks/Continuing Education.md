@@ -1,5 +1,4 @@
-# Continuing Education
-# (In-Progress)
+# Continuing Education (Revisions-In-Progress)
 
 One of Josephine’s core values is “Teach ‘em how to fish,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Josephine, and are central to our company culture.
 
