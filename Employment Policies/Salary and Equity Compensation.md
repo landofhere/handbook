@@ -8,7 +8,7 @@ Fair compensation is critical to making Josephine a desirable place to work and 
 
 Traditional salary negotiations are also heavily biased because they rely on individual gut feelings and negotiation. This favors candidates who come from more privileged backgrounds and are afforded more confidence during the hiring process.
 
-To avoid that bias, and to better align motivations, we have a standard rubric that determines all employee salaries. Everyone in the company falls into one of four options based on their job description and years of past experience as follows:
+To avoid that bias, and to better align motivations, we have a standard rubric that determines all employee salaries. Everyone in the company falls into one of six options based on their job description and years of past experience as follows:
 
 <table>
   <tr>
