@@ -30,9 +30,7 @@ If you have any food preferences or restrictions that we should consider, let us
 At the end of your first day, you can choose how you want to celebrate with your new team. You have three options:
 
 * We can all do a group high five and cheer for you
-
 * We can go out for a drink or dessert nearby together
-
 * We can all go to dinner somewhere nearby
 
 The first day can be intense, so if you’re feeling drained we can all cheer together and send you home to get ready for day number two. If you’re feeling energized and pumped to be with the team, you can choose one of the more involved options. We just want to celebrate with you however you feel comfortable!
