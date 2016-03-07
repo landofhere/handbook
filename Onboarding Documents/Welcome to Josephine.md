@@ -1,6 +1,6 @@
 # Welcome to Josephine
 
-Hey! Welcome to the Josephine team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document give you an idea of what to expect on your first day in the office. 
+Hey! Welcome to the Josephine team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will give you an idea of what to expect on your first day in the office. 
 
 At Josephine, we’re trying to build a mission and values-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Josephine handbook!).
 
@@ -27,7 +27,7 @@ If you have any food preferences or restrictions that we should consider, let us
 
 ## Team Social Activity
 
-New team members are always a reason for celebration! We'd love to do one of the activites below as a team outside of the office: 
+New team members are always a reason for celebration! We'd love to do one of the activites below as a team outside of the office sometime during your first week: 
 
 * We can all go visit a Josephine meal
 * We can go out for a drink or dessert nearby together
@@ -50,4 +50,4 @@ The first day can be intense, so we totally get it if you’re feeling drained a
 
 You'll get a sense for our team culture and workstyle organically, but on your first day we'll make an effort to at least preview each team's focus and current projects. Although we have three teams within Josephine (Cook Ops, Biz Ops, and Product), we are small enough that most major projects still touch every team. When we set our individual goals, we all think directly about how they contribute to the overall company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
 
-We're so excited to have you join our family and contribute to our mission. Please don't be shy if you have any questions or comments, especially as we go through this process of getting to know new people and environments. 
+We're so excited to have you join our family and contribute to our mission. Please don't be shy if you have any questions or comments, especially as we all go through this process of getting to know new people and environments. 
