@@ -8,7 +8,7 @@ At Josephine, we’re trying to build a mission and values-driven organization, 
 
 Your first day is a chance to get introduced to everyone you're working with and start setting things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
 
-Please arrive around 10a and expect the day to look something like this: 
+Please arrive by 10a and expect the day to look something like this: 
 
 * 10-11a— Arrive and get settled 
 * 11-11:45a— State of Josephine business update 
@@ -35,7 +35,7 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 ## The Basics about Josephine
 
-**Josephine is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Josephine and they guide the decisions we make here. You can read more about the [Josephine Values](https://github.com/josephine/handbook/blob/master/Josephine%20Values.md), but the short versions are:
+**Josephine is a values-driven company.** Hopefully you learned a lot about this during your interview process, but we take our values  seriously at Josephine and they guide the decisions we make. You can read more about the [Josephine Values](https://github.com/josephine/handbook/blob/master/Josephine%20Values.md), but the short versions are:
 
 * Be More Human
 
@@ -43,11 +43,10 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 * Teach 'em How to Fish
 
-**Our mission is hugely ambitious.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
-
 ## The Josephine Team, Hours, and Office
 
-For now, Josephine operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
+We have three teams within Josephine (Cook Ops, Biz Ops, and Product), but the reality is that we are small enough that many projects cut across these distinctions. When we set our individual and team goals, we all think directly about how they contribute to the overall company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
+
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
