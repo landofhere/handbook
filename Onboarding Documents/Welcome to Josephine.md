@@ -33,27 +33,8 @@ At the end of your first day, you can choose how you want to celebrate with your
 
 The first day can be intense, so if you’re feeling drained we can all cheer together and send you home to get ready for day number two. If you’re feeling energized and pumped to be with the team, you can choose one of the more involved options. We just want to celebrate with you however you feel comfortable!
 
-## The Basics about Josephine
+## The Josephine Team and Office
 
-**Josephine is a values-driven company.** Hopefully you learned a lot about this during your interview process, but we take our values  seriously at Josephine and they guide the decisions we make. You can read more about the [Josephine Values](https://github.com/josephine/handbook/blob/master/Josephine%20Values.md), but the short versions are:
+You'll get a sense for our team culture and workstyle organically, but on your first day we'll make an effort to at least preview each team's focus and current projects. Although we have three teams within Josephine (Cook Ops, Biz Ops, and Product), we are small enough that most major projects still touch every team. When we set our individual goals, we all think directly about how they contribute to the overall company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
 
-* Be More Human
-
-* Give Boldly, Give First
-
-* Teach 'em How to Fish
-
-## The Josephine Team, Hours, and Office
-
-We have three teams within Josephine (Cook Ops, Biz Ops, and Product), but the reality is that we are small enough that many projects cut across these distinctions. When we set our individual and team goals, we all think directly about how they contribute to the overall company goals. You’ll get to work with everyone at Josephine in some capacity, and dip your fingers into all different kinds of thinking.
-
-
-We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
-
-You should expect a typical workweek at Josephine to be 45-50 hours. Most people show up between 9 and 10 and leave between 6 and 7. We don’t work weekends, but a lot of us host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
-
-We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
-
-## The Future
-
-Josephine is a small company that is changing and improving rapidly. Today is about welcoming you and helping you join our team, but soon we’ll need your help growing and learning. Josephine will be a very different company a year from today, and it’s hard to imagine what it will be like in 5 or 10. You will have a hand in building that company, and we’re so excited to have your help.
+We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know!
