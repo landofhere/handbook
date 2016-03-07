@@ -4,11 +4,15 @@ Hey! Welcome to the Josephine team, we’re so excited to have you with us. We�
 
 At Josephine, we’re trying to build a mission and values-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Josephine handbook!).
 
-## Your First Day
+## Arrival Logistics
 
 Your first day is a chance to get introduced to everyone you're working with and start setting things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
 
-Please arrive by 10a and expect the day to look something like this: 
+Please arrive by 10a to our office in Oakstop: 1721 Broadway #202, Oakland, CA 94612 
+
+You should bring your computer and charger, or have let us know that you intend to use a Josephine computer setup. 
+
+## Your First Day Schedule
 
 * 10-11a— Arrive and get settled 
 * 11-11:45a— State of Josephine business update 
@@ -32,6 +36,16 @@ At the end of your first day, you can choose how you want to celebrate with your
 * We can all go to dinner somewhere nearby
 
 The first day can be intense, so if you’re feeling drained we can all cheer together and send you home to get ready for day number two. If you’re feeling energized and pumped to be with the team, you can choose one of the more involved options. We just want to celebrate with you however you feel comfortable!
+
+
+Asks:
+- Send over Github username
+- Read Employee Handbook
+- Sign Employee Handbook, PIIAA, Direct Deposit, New Employee Information, W4
+- Read Internal Wiki and set up computer
+- Update OOO calendar
+- Decide on team social event preference
+- Enroll in Health Insurance and Benefits
 
 ## The Josephine Team and Office
 
