@@ -6,11 +6,11 @@ At Josephine, we’re trying to build a mission and values-driven organization, 
 
 ## Arrival Logistics
 
-Your first day is a chance to get introduced to everyone you're working with and start setting things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
-
-Please arrive by 10a to our office in Oakstop: 1721 Broadway #202, Oakland, CA 94612 
+Your first day is a chance to get introduced to everyone you're working with and start setting things up the way you like them. First days are hard and mostly we want you to be getting comfortable today. 
 
 You should bring your computer and charger, or have let us know that you intend to use a Josephine computer setup. 
+
+Please arrive by 10a to our office in Oakstop: 1721 Broadway #202, Oakland, CA 94612 
 
 ## Your First Day Schedule
 
