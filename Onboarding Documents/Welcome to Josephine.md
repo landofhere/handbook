@@ -6,15 +6,24 @@ At Josephine, we’re trying to build a mission and values-driven organization, 
 
 ## Your First Day
 
-Today is all about getting you set up (with computer, accounts, etc) and settled (introduced to team members' roles, responsibilities, etc.) and making sure you’re ready to go. Take some time to meet everyone you’ll be working with, and set things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
+Your first day is a chance to get introduced to everyone you're working with and start setting things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
 
-We’ll also do a team lunch today so that we have a little dedicated time to talk with everyone. If you have any food preferences or restrictions that we should consider in choosing a lunch spot, let us know.
+Please arrive around 10a and expect the day to look something like this: 
 
-We want you to stick around. Your successes here will be your team’s successes, and your team’s successes will be yours. You shouldn't feel any pressure to cram everything into today -- you’ll have plenty of time to get things right.
+* 10-11a— Arrive and get settled 
+* 11-11:45a— State of Josephine business update 
+* Noon-12:45p— Lunch with your team
+* 1-1:30p— Cook Ops, Biz Ops or Product Team introduction
+* 1:30-2p— Cook Ops, Biz Ops or Product Team introduction
+* 2:30-4:30p— Kickoff with your team 
+* 6-7p— Optional social activity (dinner, dessert or drink) with entire team
+
+If you have any food preferences or restrictions that we should consider, let us know!
+
 
 ## The End of Your First Day
 
-At the end of your first day, you get to choose how you want to celebrate with your new team. You have three options:
+At the end of your first day, you can choose how you want to celebrate with your new team. You have three options:
 
 * We can all do a group high five and cheer for you
 
