@@ -6,15 +6,11 @@ At Josephine, we’re trying to build a mission and values-driven organization, 
 
 ## Your First Day
 
-Hopefully by the time you’re actually starting at Josephine, you’ve already finished filling out the paperwork and you’ve showed up to a desk with a new computer and the accessories that fit your work-style. Today is all about getting you set up and making sure you’re ready to go.
-
-**The goal for today is for you to publish _something_ live.** If you’re a designer, that could be a color change for a button. If you’re a developer, it might be fixing a missing semicolon. It could be a tweet from the Josephine account or a blog post, a support response or an infographic. Whatever you’ll be doing at Josephine, we want you to ship something small today.
-
-Otherwise, take some time to meet everyone you’ll be working with, and set things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
+Today is all about getting you set up (with computer, accounts, etc) and settled (introduced to team members' roles, responsibilities, etc.) and making sure you’re ready to go. Take some time to meet everyone you’ll be working with, and set things up the way you like them. First days are hard and mostly we want you to be getting comfortable today.
 
 We’ll also do a team lunch today so that we have a little dedicated time to talk with everyone. If you have any food preferences or restrictions that we should consider in choosing a lunch spot, let us know.
 
-We want you to stick around. Your successes here will be your team’s successes, and your team’s successes will be yours. We want you to build a career here, so don’t feel any pressure to cram everything into today -- you’ll have plenty of time to get things right.
+We want you to stick around. Your successes here will be your team’s successes, and your team’s successes will be yours. You shouldn't feel any pressure to cram everything into today -- you’ll have plenty of time to get things right.
 
 ## The End of Your First Day
 
@@ -34,15 +30,11 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 * Be More Human
 
-* Teach 'em How to Fish
-
 * Give Boldly, Give First
 
-* Measure Feelings, Not Things
+* Teach 'em How to Fish
 
-**Josephine isn’t a normal security company.** Security is traditionally a very technical and inaccessible field. At Josephine, we’re working to make security easy and approachable to everyone, and that radiates through everything we do. Our product is meant to be friendly and fun, and our attitude should never feel superior or smug. Josephine isn’t about protecting people, it’s about empowering them.
-
-**Our ambition is huge.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
+**Our mission is hugely ambitious.** We want to build the identity standard for the Internet. This is a massive undertaking, and we have to be a little bit delusional to believe that we can do it. But every day we’re making progress and we’ve already taken this a lot further than anyone said was possible, so we’re used to making the impossible happen. This is hard, daunting work, but that’s how we make a dent on the world.
 
 ## The Josephine Team, Hours, and Office
 
