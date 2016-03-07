@@ -38,8 +38,9 @@ At the end of your first day, you can choose how you want to celebrate with your
 The first day can be intense, so if you’re feeling drained we can all cheer together and send you home to get ready for day number two. If you’re feeling energized and pumped to be with the team, you can choose one of the more involved options. We just want to celebrate with you however you feel comfortable!
 
 
-Asks:
-- Send over Github username
+## Administrative Asks
+
+- Send your Github username to tal@josephine.com 
 - Read Employee Handbook
 - Sign Employee Handbook, PIIAA, Direct Deposit, New Employee Information, W4
 - Read Internal Wiki and set up computer
