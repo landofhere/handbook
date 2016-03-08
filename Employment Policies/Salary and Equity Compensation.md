@@ -42,7 +42,7 @@ At the beginning of each year (in January), we will adjust this rubric to make s
 
 ##Equity
 
-Every employee will be offered 105,714 stock options (~.925% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 5,714 more options (totalling ~.05% of outstanding shares).
+Every full-time employee will be offered 105,714 stock options (~.925% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 5,714 more options (totalling ~.05% of outstanding shares).
 
 Employee equity vests over 4 years with a 1 year cliff.
 
