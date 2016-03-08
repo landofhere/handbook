@@ -45,6 +45,7 @@ The first day can be intense, so we totally get it if you’re feeling drained a
 - Update your OOO calendar
 - Decide on your preferred team social activity & date
 - Enroll in [Health Insurance] (https://github.com/josephine/wiki/blob/master/Admin/Using%20Your%20Health%20Insurance.md) and [Benefits] (https://github.com/josephine/wiki/blob/master/Admin/Using%20your%20FSA%20%26%20Commuter%20Benefits.md)
+- Get to know the team! Try and grab 1:1s with everyone on the team within you first 2-3 weeks. Helps to get some out of office facetime :)
 
 ## The Josephine Team and Office
 
