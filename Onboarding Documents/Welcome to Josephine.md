@@ -41,7 +41,7 @@ The first day can be intense, so we totally get it if you’re feeling drained a
 - Send your Github username to tal@josephine.com 
 - Read [Employee Handbook] (https://github.com/josephine/handbook)
 - Sign [Employee Handbook Acknowledgement of Receipt] (https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), PIIAA, Direct Deposit, New Employee Information, W4 (attached)
-- Read [Internal Wiki] (https://github.com/josephine/wiki) and set up computer
+- [Set up your computer](https://github.com/josephine/wiki/blob/master/New%20Employee%20Setup/For%20Employees/Setting%20Up%20Your%20Computer.md) (follow all the instructions here!)
 - Update your OOO calendar
 - Decide on your preferred team social activity & date
 - Enroll in [Health Insurance] (https://github.com/josephine/wiki/blob/master/Admin/Using%20Your%20Health%20Insurance.md) and [Benefits] (https://github.com/josephine/wiki/blob/master/Admin/Using%20your%20FSA%20%26%20Commuter%20Benefits.md)
