@@ -38,7 +38,10 @@ The first day can be intense, so we totally get it if you’re feeling drained a
 
 ## First Week To-Dos
 
-- Send your Github username to tal@josephine.com 
+- Set up Github
+  1. Create an account on github.com
+  2. Verify your account's email address (you should receive an email)
+  3. Ask a team member to [add you to the Josephine team](https://github.com/orgs/josephine/invitations/new)
 - [Set up your computer](https://github.com/josephine/wiki/blob/master/New%20Employee%20Setup/For%20Employees/Setting%20Up%20Your%20Computer.md) (follow all the instructions here!)
 - Read [Employee Handbook] (https://github.com/josephine/handbook)
 - Sign [Employee Handbook Acknowledgement of Receipt] (https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), PIIAA, Direct Deposit, New Employee Information, W4 (attached)
