@@ -16,10 +16,10 @@ Github is a tool that the technical members of our team will already need to get
 
 ### Trello
 
-There is an internal Trello board at https://trello.com/b/gTmLFJgs that lists the current areas of interest, research, and proposals. This is where we can track the currently active internal discussions. If anyone has an issue they would like to start discussing, they can add a card to that board.
+There is an internal Trello board at https://trello.com/b/2cZlbQwl/policies-and-culture that lists the current areas of interest, research, and proposals. This is where we can track the currently active internal discussions. If anyone has an issue they would like to start discussing, they can add a card to that board.
 
-### Google Docs
-Proposals should be written in Google Docs and linked to on the Trello board. There is a folder in “Active Projects” for ‘Handbook Research and Proposals’ which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
+### Dropbox Paper
+Proposals should be written in Dropbox Paper and linked to on the Trello board. There is a folder in “Active Projects” for ‘Handbook Research and Proposals’ which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
 
 ### Twitter
 
