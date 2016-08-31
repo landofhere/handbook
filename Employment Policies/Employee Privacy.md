@@ -6,6 +6,10 @@ As an employer, it is Land of Here’s goal to monitor or track our employees in
 
 This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to Land of Here. Land of Here reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
 
+## Outside of Land of Here Privacy
+
+We all have lives outside of Land of Here and those lives should be respected. While our Code of Conduct pertains to how we live and operate within Land of Here, we strongly recommend that a similar policy of respect be embraced in the personal realm as well. Foremost, one should respect the wishes of all individuals and groups outside of Land of Here seek first consent before acting. For example, one should not go to or follow another person to their place of residence or any external Land of Here destination without that person's consent. 
+
 ## Email and Internet Privacy
 
 Land of Here email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
