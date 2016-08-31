@@ -8,7 +8,7 @@ This means that while the company will always try to respect employee privacy, e
 
 ## Outside of Land of Here Privacy
 
-We all have lives outside of Land of Here and those lives should be respected. While our Code of Conduct pertains to how we live and operate within Land of Here, we strongly recommend that a similar policy of respect be embraced in the personal realm as well. Foremost, one should respect the wishes of all individuals and groups outside of Land of Here seek first consent before acting. For example, one should not go to or follow another person to their place of residence or any external Land of Here destination without that person's consent. 
+We all have lives outside of Land of Here and those lives should be respected. While our Code of Conduct pertains to how we live and operate within Land of Here, we strongly recommend that a similar policy of respect be embraced in the personal realm as well. Foremost, one should respect the wishes of all individuals and groups outside of Land of Here and seek consent first before acting. For example, one should not go to or follow another person to their place of residence or any external Land of Here destination without that person's consent. 
 
 ## Email and Internet Privacy
 
