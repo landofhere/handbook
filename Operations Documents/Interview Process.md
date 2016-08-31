@@ -6,19 +6,19 @@ Every candidate should go through at least three interviews that help us find th
 
 Before they are interviewed, the candidate should show some relevant work that will help give us an initial screen and something to talk about in the first coffee interview. This work should be role specific, so it can be code, a writing sample, a social media account, or even organizational docs. 
 
-They should also get a blurb about Josephine, the position, and our values so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular should be emphasized here so that they understand how important they are to the Josephine team and make sure they align.**
+They should also get a blurb about Land of Here, the position, and our values so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular should be emphasized here so that they understand how important they are to the Land of Here team and make sure they align.**
 
 # Informal/Coffee — 45 Minutes
 
-A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is what they want to do next, and whether that matches what we’re looking for at Josephine. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
+A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is what they want to do next, and whether that matches what we’re looking for at Land of Here. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
 
-The idea is to spend 45 minutes getting to know the candidate and letting them ask questions about Josephine and the position. This has screened about 80% of candidates so far, which seems about right. It should be pretty transparent if the candidate’s experience or interests are misaligned for the job. Interview formats may vary, but some information spanning three categories should be gained:
+The idea is to spend 45 minutes getting to know the candidate and letting them ask questions about Land of Here and the position. This has screened about 80% of candidates so far, which seems about right. It should be pretty transparent if the candidate’s experience or interests are misaligned for the job. Interview formats may vary, but some information spanning three categories should be gained:
 
  1. Can the candidate do the job? (work experience, portfolio, high level skills assessment)
  2. Will the candidate want to do the job? (motivations, work place priorities)
  3. Would we want to spend a lot of time with the candidate? (communication, values, collaboration style)
 
-This interview should also focus on selling Josephine and recruiting promising candidates, as this is their first real contact with Josephine and their desire to work here will be formed in this meeting.
+This interview should also focus on selling Land of Here and recruiting promising candidates, as this is their first real contact with Land of Here and their desire to work here will be formed in this meeting.
 
 # Skills Assessment — 2 Hours
 

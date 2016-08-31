@@ -16,14 +16,14 @@ Github is a tool that the technical members of our team will already need to get
 
 ### Trello
 
-There is an internal Trello board at https://trello.com/b/2cZlbQwl/policies-and-culture that lists the current areas of interest, research, and proposals. This is where we can track the currently active internal discussions. If anyone has an issue they would like to start discussing, they can add a card to that board.
+There is an internal Trello board at https://trello.com/b/2cZlbQwl/policies-and-culturecd that lists the current areas of interest, research, and proposals. This is where we can track the currently active internal discussions. If anyone has an issue they would like to start discussing, they can add a card to that board.
 
 ### Dropbox Paper
-Proposals should be written in Dropbox Paper and linked to on the Trello board. There is a folder in “Active Projects” for ‘Handbook Research and Proposals’ which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
+Proposals should be written in Dropbox Paper at https://paper.dropbox.com/ and linked on the Trello board. There is a folder in “Active Projects” for ‘Handbook Research and Proposals’ which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
 
 ### Twitter
 
-A lot of folks have commented on the handbook outside of Github, especially on Twitter. The best thing for us to do is acknowledge their input and make sure it gets recorded in one of our other channels (especially Github) so that we don’t lose it. As individuals, anyone should feel free to talk about their opinions about feedback, but as Josephine we should thank people for their input without being defensive.
+Twitter has been used by other companies as a communication interface and is available for external interaction at https://twitter.com/landofhere or @landofhere.
 
 ### Slack #handbook
 
@@ -31,9 +31,7 @@ This channel is a good place for us to comment on policy changes asynchronously.
 
 ## Continuing Work
 
-B will be blocking out a few hours every week on Friday mornings to look through and respond to issues, create proposals based on feedback, schedule time to talk about changes as a team, and merge in changes that are ready. Regular work will make sure that issues don’t stagnate, and any team member is welcome to create proposals or contribute to research on policies that they’re interested in.
-
-During our weekly team lunch, B will summarize open issues and proposals.
+At the start, weekly time should be dedicated to examining and updating issues, prop0sals and feedback for the handbook.
 
 ## Proposals
 
@@ -56,8 +54,8 @@ For major changes, he or another team member may also write a blog post about th
 
 ## Adoption
 
-Everyone at Josephine needs to sign an [Acknowledgement of Receipt for the Employee Handbook](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
+Everyone at Land of Here needs to sign an [Acknowledgement of Receipt for the Employee Handbook](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
 
-Because we want these policies to constantly improve, we will merge changes as they appear. To make enforcing policy clear and unambiguous, we will adopt the changes at the beginning of each quarter. We will use milestones on Github to mark these canonical versions of the handbook, and we'll host them all at [josephine.com/handbook](https://josephine.com/handbook). They will be labeled with the dates that they applied, so if there is ever a question or complaint about a policy violation, it will be clear which policies applied on which dates at Josephine.
+Because we want these policies to constantly improve, we will merge changes as they appear. To make enforcing policy clear and unambiguous, we will adopt the changes at the beginning of each quarter. We will use milestones on Github to mark these canonical versions of the handbook, and we'll host them all at [landofhere.com/handbook](https://landofhere.com/handbook). They will be labeled with the dates that they applied, so if there is ever a question or complaint about a policy violation, it will be clear which policies applied on which dates at Land of Here.
 
-Every employee will need to sign an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/josephine/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt%20of%20Changes.md) each quarter, which may not scale as we grow to more employees.
+Every employee will need to sign an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt%20of%20Changes.md) each quarter, which may not scale as we grow to more employees.

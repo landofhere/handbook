@@ -2,7 +2,7 @@
 
 Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). Typically, OKRs are set at the company and at individual level to help everyone see how their personal goals align with the company goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
 
-When we first tried setting OKRs for Q1 2016, we found that the founding team's collaborative workstyle made individual OKRs very difficult to set. Members of each team frequently cross-delegate and contribute to initiatives in near-equal capacities depending on what is the most effective that day or week. Thus we've decided to set Josephine OKRs at company and team levels this quarter, rather than company and individual levels. The idea is that currently every one on our team can work on almost everything that falls within their team OKRs, so granular delegation of projects and tasks can happen on a shorter timeline, allowing for team optimized efficacy, rather than strict specialization. 
+When we first tried setting OKRs for Q1 2016, we found that the founding team's collaborative workstyle made individual OKRs very difficult to set. Members of each team frequently cross-delegate and contribute to initiatives in near-equal capacities depending on what is the most effective that day or week. Thus we've decided to set Land of Here OKRs at company and team levels this quarter, rather than company and individual levels. The idea is that currently every one on our team can work on almost everything that falls within their team OKRs, so granular delegation of projects and tasks can happen on a shorter timeline, allowing for team optimized efficacy, rather than strict specialization. 
 
 While we're proud that communication within the founding team currently allows for this type of work fluidity, we realize that it is a luxury we will outgrow as soon as we grow the team and need more objective and individualized goal setting. Our plan is to re-evaluate the need for individual OKR setting for Q2 of 2016. 
 
@@ -20,7 +20,7 @@ Objectives are the high level achievements you are shooting for, like:
 
 * Help cooks market to their audiences more easily
 
-* Bring Josephine to new strategic markets
+* Bring Land of Here to new strategic markets
 
 
 Key results are the measurable outcomes that define success for the objectives. **Key results must be measurable on a scale from 0-10**, so for the second example objective, the results might be:
@@ -35,7 +35,7 @@ Key results are the measurable outcomes that define success for the objectives. 
 
 ## Setting OKRs
 
-Every team at Josephine sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
+Every team at Land of Here sets their OKRs quarterly, writing them in the first week of the quarter and then evaluating them in the last week. At a startup it’s easy to focus on the immediate problems, but by setting our goals quarterly we ensure that everyone spends some time thinking about the challenges at least 3 months out.
 
 Each team should set 3 to 5 objectives for the quarter, and each objective should have a maximum of 4 key results. Each objective also has a Description explaining what it means and an Alignment that explains how it aligns with company-wide goals. Each key result should explain how it will be scored at the end of the quarter.
 

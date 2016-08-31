@@ -1,10 +1,10 @@
-# Sharing Files at Josephine
+# Sharing Files at Land of Here
 
 ## Base Directories
 
-At the base of every member of the Josephine team’s directory, there should be 6 directories:
+At the base of every member of the Land of Here team’s directory, there should be 6 directories:
 
-1. **[Josephine Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Josephine, which anyone can comment on
+1. **[Land of Here Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Land of Here, which anyone can comment on
 
 2. **Active Projects** -- All project folders will be shared globally in this folder
 
@@ -12,7 +12,7 @@ At the base of every member of the Josephine team’s directory, there should be
 
 4. **Resources** -- common resources which will be shared across projects -- like logo design resources, press clippings, etc.
 
-5. **OKRs** -- everyone at Josephine’s objectives and key results.
+5. **OKRs** -- everyone at Land of Here’s objectives and key results.
 
 6. **[Your Name]** -- every employee should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
 

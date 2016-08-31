@@ -1,4 +1,4 @@
-# Josephine Observed Holiday List (2016)
+# Land of Here Observed Holiday List (2016)
 
 <table>
   <tr>
