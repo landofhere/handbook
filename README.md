@@ -1,12 +1,17 @@
 # Our Handbook
 
-At Land of Here we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
+What you are reading is was being written for a company of one. Perhaps you are number two or even the three-hundred and thirty-seventh. What really matters is that I hope you've found yourself joining something may no longer just be a dream or experiment, but really has become a way for us to nurture together, here.
 
-As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
+This handbook is another small step in the Land of Here's journey to make the world a better place — the workplace is a great area to start in. It's built or rather converted, with much gratitude to Clef via Josephine. They too are companies built on value-driven culture and working to break down the exclusionary barriers and hidden biases inherent in any company that grows beyond one. So let us continue their work and innovation in creating places where people can together work, play and live in a nurturing and supportive reality.
 
-We wanted to put what we've learned into practice, so we decided to write our own handbook and open source it.
 
-This repository contains all of the policies that we use at Land of Here. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
+— [Barry](https://twitter.com/_charleyw)
+
+bear, dreamer, founder — Land of Here
+
+***
+
+This repository contains all of the policies that we use at Land of Here. It was forked from Josephin's flavor of the Clef handbook, and we will cultivate our own as we grow.
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
 
@@ -14,16 +19,14 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 If these policies sound like a place where you want to work, check out our jobs postings at [landofhere.com/about](https://landofhere.com/about).
 
-— [Charley](https://twitter.com/_charleyw)
 
-CEO of Land of Here
 
 ***
 
 
 ## Introduction
-* [Mission Statement](https://github.com/landofhere/handbook/blob/master/Mission%20Statement.md)
-* [Land of Here Values](https://github.com/landofhere/handbook/blob/master/Land of Here%20Values.md)
+* [Land of Here Vision and Mission Statement](https://github.com/landofhere/handbook/blob/master/Land%20of%20Here%20Mission%20Statement.md)
+* [Land of Here Values](https://github.com/landofhere/handbook/blob/master/Land%20of%20Here%20Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/landofhere/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
@@ -37,7 +40,7 @@ CEO of Land of Here
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Land of Here Offer Letter](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Land of Here%20Offer%20Letter.md)
+* [Land of Here Offer Letter](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Land%20of%20Here%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/landofhere/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
@@ -67,4 +70,3 @@ CEO of Land of Here
 * [Sabbatical](https://github.com/landofhere/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 * [New Parent Leave](https://github.com/landofhere/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 * [Other Protected Absences](https://github.com/landofhere/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
-
